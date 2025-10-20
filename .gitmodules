@@ -5,3 +5,9 @@
 [submodule "vim-emu-wifi"]
 	path = vim-emu-wifi
 	url = https://github.com/tidiosky/vim-emu-wifi
+[submodule "mininet-wifi/mininet"]
+	path = mininet-wifi/mininet
+	url = https://github.com/mininet/mininet.git
+[submodule "mininet-wifi/hostap"]
+	path = mininet-wifi/hostap
+	url = https://w1.fi/hostap.git
